@@ -1,0 +1,20 @@
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: Courier, serif;
+	font-size: 18px;
+}
+h1, h2, h3 {
+	font-family: Courier, sans-serif;
+	font-weight: bold;
+}
+a {
+	text-decoration: none;
+}
+a:hover {
+	background-color: #820000;
+	text-decoration: underline;
+}
